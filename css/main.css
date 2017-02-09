@@ -57,7 +57,8 @@ h3 {
 }
 
 img {
-	width: 30%;
+	width: 35%;
+	height: auto;
 	margin: 0px 5%;
 	box-shadow: 7px 7px 5px;
 	border: solid 3px;
@@ -147,7 +148,7 @@ td {
 
 .habitspic {
 	width: 35%;
-	height: 500px;
+	height: auto;
 	margin-top: 40px;
 }
 
