@@ -4,12 +4,12 @@ body{
 	background: url('../img/headerbg.jpg') center top fixed no-repeat;
 	background-size: cover;
 	font-family: 'Exo', sans-serif;
-	text-shadow: 1px 1px 20px;
 }
 
 header {
 	height: 750px;
 	color: #fff;
+	text-shadow: 1px 1px 20px;
 }
 
 nav ul {
